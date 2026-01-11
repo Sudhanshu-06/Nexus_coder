@@ -1,0 +1,36 @@
+*{
+    font-family: cursive;
+}
+h2{
+    background-color: brown;
+}
+ol{
+    background-color: aqua;
+}
+ol li{
+    color:brown
+}
+/* select by class name */
+.para{
+    background-color: yellowgreen;
+    color:aquamarine
+}
+/* select by id */
+#sab{
+    color:brown;
+    background-color: aqua;
+}
+/* descendent selector */
+section p{
+    background-color: aqua;
+}
+/* child selector */
+section > p{
+    background-color: pink;
+}
+/* Id Selector with class selector */
+#banner.highlight {
+    background-color: yellow;
+    font-weight: bold;
+  }
+  
