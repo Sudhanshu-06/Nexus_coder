@@ -1,0 +1,23 @@
+ div > p{
+    color: blue;
+}
+body{
+    background-image: url(./pink-7761356_640.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1{
+    /* color: blue; */
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgba(13, 220, 16, 0.991);
+    background-color: aquamarine;
+
+}
+p{
+    color: hsl(80,60%,60%);
+}
+h2{
+    /* color: blueviolet; */
+    color: #2d34f5;
+}
