@@ -1,0 +1,20 @@
+/* h1{
+    font-size: 10vw;
+}
+h2{
+    font-weight: 900;
+    font-style: italic;
+}
+p.small{
+    font-variant:small-caps;
+}
+p{
+    line-height: 30px;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+    text-transform: uppercase;
+    font-stretch:expanded
+} */
+h1{
+    background-color: aquamarine;
+}
