@@ -1,0 +1,43 @@
+.container{
+    background-color: aqua;
+    margin-left: 200px;
+    margin-top: 150px;
+    position: relative;
+    height: 1000px;
+}
+.new-container{
+    height: 800px;
+    background-color: burlywood;
+}
+.box{
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+}
+.box1{
+    background-color: blue;
+}
+.box2{
+    background-color:yellow;
+    /* position: relative;
+    top: 30px;
+    left:20px;
+    right: 30px;
+    bottom: 30px; */
+    /* position: absolute;
+    top: 10px;
+    left: 10px; */
+
+    /* position: fixed;
+    top:30px */
+
+    position: sticky;
+    top:20px;
+    left: 30px;
+    }
+.box3{
+    background-color: violet;
+}
+.box4{
+    background-color: green;
+}
