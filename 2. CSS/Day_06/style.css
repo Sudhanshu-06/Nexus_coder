@@ -19,19 +19,20 @@
 }
 .box2{
     background-color:yellow;
-    /* position: relative;
+    /* position: relative; // work on original position
     top: 30px;
     left:20px;
     right: 30px;
     bottom: 30px; */
-    /* position: absolute;
+    /* position: absolute; // work on parent element position if any position not written in parent elemnt then it work on viewport basis.
     top: 10px;
     left: 10px; */
 
-    /* position: fixed;
+    /* position: fixed; // it find our position on viewport basis
     top:30px */
 
-    position: sticky;
+/* stick on our parent element */
+    position: sticky; 
     top:20px;
     left: 30px;
     }

@@ -1,3 +1,9 @@
+body{
+    background-color: bisque;
+}
+body:hover{
+    background-color: skyblue;
+}
 .card{
     width: 30vw;
     height: 15vw;

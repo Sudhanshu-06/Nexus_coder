@@ -6,6 +6,9 @@ header{
     background-color: cadetblue;
     position: fixed;
     width: 100%;
+    /* top: 0;
+    left: 0;
+    right: 0; */
 }
 main{
     padding-top: 60px;

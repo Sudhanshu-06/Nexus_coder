@@ -6,6 +6,12 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
 }
+
+/* Pixel size is determinde by your device size */
+/* em , relative to parent font size */
+/* rem , relative to HTML font size */
+/* % relative to parent font size */
+
 h1{
     /* color: blue; */
     font-size: 40px;

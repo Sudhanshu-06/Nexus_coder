@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 .first,.third{
     display: inline-block;
@@ -18,5 +19,5 @@
     margin-left: 15vw;
 }
 .third, .fourth{
-    margin-top: 15vh;
+    margin-top: 18vh;
 }
