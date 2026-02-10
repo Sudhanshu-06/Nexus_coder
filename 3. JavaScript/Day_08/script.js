@@ -2,10 +2,13 @@
 
 const arr=[2,35,1,8,9,"rohit",true]
 // console.log(arr);
+
 // length
 // console.log(arr.length);
+
 // index
 // console.log(arr[1]);
+
 // at is latest, negative index le leta hai
 // console.log(arr.at(0));
 // console.log(arr.at(-1));
@@ -46,8 +49,11 @@ console.log(arr);
 
 // splice
 console.log(arr.splice(2,5));
+
+// splice(starting_index, total_element_delete, add value)
 arr.splice(2,3,"aman",50,40,30)
 console.log(arr);
+
 
 console.log(arr.toString());
 console.log(arr.join(" "));
@@ -75,6 +81,7 @@ console.log(newarr1d);
 let abc=[1,2,3,4,5,6]
 console.log(typeof abc);
 console.log(Array.isArray(abc));
+
 
 // let ac= new Array(123,415,678,789)
 // console.log(ac); 
