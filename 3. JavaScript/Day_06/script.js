@@ -50,6 +50,8 @@ console.log(message1);
 console.log(message1[0]);
 console.log(message1[1]);
 console.log(message1.charAt(3));
+
+// No change in original string it can return new string
 console.log(message1.toUpperCase());
 console.log(message1.toLowerCase());
 
@@ -66,6 +68,7 @@ console.log(newstring.slice(0,3));
 // 
 console.log(newstring.substring(0,3));
 
+// substr
 
 let st3="Hello Ji kaise ho"
 console.log(st3.replace("Ji","Honey"));
