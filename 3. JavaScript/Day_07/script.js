@@ -8,6 +8,8 @@ let number=231.98
 console.log(number.toFixed());
 console.log(number.toPrecision(4));
 console.log(number.toExponential(3));
+console.log(typeof number.toString());
+console.log(num.valueOf());
 
 
 // Math
@@ -35,6 +37,10 @@ console.log(Math.floor(Math.random()*10)+11);
 // 0-10
 
 console.log(Math.floor(Math.random()*11));
+
+// Ludo
+// 1-6
+console.log(Math.floor(Math.random()*(6-1+1)+1))
 
 
 
